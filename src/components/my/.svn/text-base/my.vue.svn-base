@@ -1,0 +1,481 @@
+<template>
+	<div class="wrap">
+		<div class="div_ul">
+			<div class="div_li_violet">
+				<div class="div_mine_1">
+					<img src="../../common/image/logo.jpg" class="img_circular_9" />
+				</div>
+				<div class="div_mine_2">
+					<div class="div_mine_2_1">
+						<span class="div_mine_2_span_1">
+								昵称:百诺基金
+							</span>
+						<span class="div_mine_2_span_2">
+							酷商ID:00643143
+						</span>
+					</div>
+					<div class="div_mine_2_2">
+						<img src="../../common/image/icon_Certification@2x.png" class="div_mine_2_2_img1" />
+						<span id="">
+								实名登记
+							</span>
+						<div class="vertical">
+
+						</div>
+						<img src="../../common/image/icon_phone@2x.png" class="div_mine_2_2_img2" />
+						<span id="">
+								手机号码
+							</span>
+					</div>
+				</div>
+			</div>
+
+			<div class="div_li_violet div_li_violet_top1">
+				<div class="div_li_violet_top1_1">
+					<span id="">
+							$20000
+						</span>
+					<span id="">
+							我的资产
+						</span>
+				</div>
+				<div class="">
+				</div>
+				<div class="div_li_violet_top1_3">
+					<span id="">
+							5
+						</span>
+					<span id="">
+							投资项目
+						</span>
+				</div>
+			</div>
+
+			<div class="div_li_violet div_li_violet_top2">
+				<div class="div_li_violet_top2_1">
+					<div class="">
+						<img src="../../common/image/icon_wallet@2x.png" />
+						<span id="">
+							我的钱包
+						</span>
+					</div>
+				</div>
+				<div class="div_li_violet_top2_2">
+					<div class="">
+						<span id="">
+								20000
+							</span>
+						<span id="">
+							余额
+							</span>
+					</div>
+					<div class="">
+						<span id="">
+								20000
+							</span>
+						<span id="">
+								积分
+							</span>
+					</div>
+					<div class="">
+						<span id="">
+								20000
+							</span>
+						<span id="">
+								酷币
+							</span>
+					</div>
+					<div class="">
+						<span id="">
+								6
+							</span>
+						<span id="">
+								卡卷
+							</span>
+					</div>
+				</div>
+			</div>
+			<div class="option_ul">
+				<div class="option_li underline" style="margin-top: .12rem;">
+					<div class="">
+						<img src="../../common/image/icon_Personal Information@2x.png" /><span id="">
+								个人资料
+							</span>
+					</div>
+					<img src="../../common/image/icon_next@2x.png" />
+				</div>
+				<div class="option_li">
+					<div class="">
+						<img src="../../common/image/icon_Invite Friends@2x.png" /><span id="">
+								邀请好友
+							</span>
+					</div>
+					<img src="../../common/image/icon_next@2x.png" />
+				</div>
+				<div class="option_li underline" style="margin-top: .12rem;">
+					<div class="">
+						<img src="../../common/image/icon_Project@2x.png" /><span id="">
+								我的项目
+							</span>
+					</div>
+					<img src="../../common/image/icon_next@2x.png" />
+				</div>
+				<div class="option_li underline">
+					<div class="">
+						<img src="../../common/image/icon_investment@2x.png" /><span id="">
+								我的投资
+							</span>
+					</div>
+					<img src="../../common/image/icon_next@2x.png" />
+				</div>
+				<div class="option_li underline">
+					<div class="">
+						<img src="../../common/image/icon_assignment@2x.png" /><span id="">
+								我的转让
+							</span>
+					</div>
+					<img src="../../common/image/icon_next@2x.png" />
+				</div>
+				<div class="option_li underline">
+					<div class="">
+						<img src="../../common/image/icon_Concern@2x.png" /><span id="">
+								我的关注
+							</span>
+					</div>
+					<img src="../../common/image/icon_next@2x.png" />
+				</div>
+				<div class="option_li">
+					<div class="">
+						<img src="../../common/image/icon_raise money@2x.png" /><span id="">
+								我的筹中筹
+							</span>
+					</div>
+					<img src="../../common/image/icon_next@2x.png" />
+				</div>
+				<div class="option_li underline" style="margin-top: .12rem;">
+					<div class="">
+						<img src="../../common/image/icon_authentication@2x.png" /><span id="">
+								身份验证
+							</span>
+					</div>
+					<img src="../../common/image/icon_next@2x.png" />
+				</div>
+				<div class="option_li underline">
+					<div class="">
+						<img src="../../common/image/icon_debit card@2x.png" /><span id="">
+								银行卡
+							</span>
+					</div>
+					<img src="../../common/image/icon_next@2x.png" />
+				</div>
+				<div class="option_li">
+					<div class="">
+						<img src="../../common/image/icon_ Password Securty@2x.png" /><span id="">
+								密码安全
+							</span>
+					</div>
+					<img src="../../common/image/icon_next@2x.png" />
+				</div>
+				<div class="option_li underline" style="margin-top: .12rem;">
+					<div class="">
+						<img src="../../common/image/icon_address management@2x.png" /><span id="">
+								地址管理
+							</span>
+					</div>
+					<img src="../../common/image/icon_next@2x.png" />
+				</div>
+				<div class="option_li underline">
+					<div class="">
+						<img src="../../common/image/icon_agreement@2x.png" /><span id="">
+								我的合同
+							</span>
+					</div>
+					<img src="../../common/image/icon_next@2x.png" />
+				</div>
+				<div class="option_li">
+					<div class="">
+						<img src="../../common/image/icon_signature@2x.png" /><span id="">
+								我的签章
+							</span>
+					</div>
+					<img src="../../common/image/icon_next@2x.png" />
+				</div>
+				<div class="option_li underline" style="margin-top: .12rem;">
+					<div class="">
+						<img src="../../common/image/icon_Contact Us@2x.png" /><span id="">
+								联系我们
+							</span>
+					</div>
+					<img src="../../common/image/icon_next@2x.png" />
+				</div>
+				<div class="option_li">
+					<div class="">
+						<img src="../../common/image/icon_About Us@2x.png" /><span id="">
+								关于我们
+							</span>
+					</div>
+					<img src="../../common/image/icon_next@2x.png" />
+				</div>
+			</div>
+		</div>
+	</div>
+</template>
+
+<script type="text/ecmascript-6">
+	import axios from '../../common/js/axios'
+	export default {
+		data() {
+			return {}
+		},
+		methods: {
+			showData() {
+				const res = axios.post('jyw_server/dev/test.do', {
+					accountName: '我是'
+				})
+				res.then(function(value) {
+					console.log(value)
+				}, function(value) {
+					console.log(value)
+				})
+			},
+			go() {
+				this.$store.state.title = 'test页面'
+				this.$router.push('/hello')
+			}
+		}
+	}
+</script>
+
+<style scoped lang="stylus" rel="stylesheet/stylus">
+	input,
+	select,
+	textarea,
+	button {
+		border: none!important;
+		outline: none!important;
+		resize: none!important;
+		-webkit-appearance: none!important;
+		-webkit-user-select: auto;
+	}
+	
+	.wrap {
+		background: #f2f2f2;
+		color: #4A4A4A;
+		font-size: .15rem;
+		background-color: #f2f2f2;
+		-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+	}
+	
+	.box {
+		display: -webkit-flex;
+		display: -moz-flex;
+		display: -ms-flex;
+		display: -o-flex;
+		display: flex
+	}
+	
+	.level_center {
+		-webkit-justify-content: center;
+		-moz-justify-content: center;
+		-ms-justify-content: center;
+		-o-justify-content: center;
+		justify-content: center
+	}
+	
+	.vertical_center {
+		-ms-align-items: center;
+		align-items: center
+	}
+	.div_ul {
+		display: flex;
+		flex-direction: column;
+		justify-content: space-between;
+		align-items: center;
+		overflow-x: hidden;
+	}
+	
+	.div_mine_1 {
+		height: 100%;
+		margin: 0 .14rem 0 .16rem;
+		display: flex;
+		align-items: center;
+	}
+	
+	.div_li_violet div {
+		color: #FFFFFF;
+	}
+	
+	.div_li_violet {
+		display: flex;
+		align-items: center;
+		margin-top: .12rem;
+		width: 100%;
+		height: 1.08rem;
+		background-color: #46287A;
+	}
+	
+	.div_mine_2 {
+		width: 75%;
+	}
+	
+	.div_mine_2 div {
+		margin: 1.5% 0;
+	}
+	
+	.div_mine_2_1 {
+		display: flex;
+		justify-content: space-between;
+	}
+	
+	.div_mine_2_span_1 {
+		color: #FFFFFF;
+		font-size: .15rem;
+	}
+	
+	.div_mine_2_span_2:nth-child(2) {
+		align-self: flex-end;
+	}
+	
+	.div_mine_2_2 {
+		width: 100%;
+		height: .2rem;
+		display: inline-flex;
+		align-items: center;
+		font-size: .16rem;
+	}
+	
+	.div_mine_2_span_2 {
+		color: #FFFFFF;
+		font-size: .12rem;
+		margin: 0 3% 0 0;
+	}
+	
+	.div_li_violet_top1 {
+		height: .86rem;
+		margin-top: .12rem;
+	}
+	
+	.img_circular_9 {
+		border-radius: 50%;
+		overflow: hidden;
+		width: .62rem;
+		height: .62rem;
+	}
+	
+	.div_mine_2_2_img1 {
+		width: .19rem;
+		height: .14rem;
+		margin: 0 1%;
+	}
+	
+	.div_mine_2_2_img2 {
+		width: .14rem;
+		height: .14rem;
+		margin: 0 0 0 5%;
+	}
+	
+	.div_mine_2_2 span {
+		margin: 0 5% 0 1%;
+	}
+	
+	.vertical {
+		background-color: #FFFFFF;
+		width: .02rem;
+		height: 100%;
+	}
+	
+	.div_li_violet_top1 div {
+		display: flex;
+		flex-direction: column;
+		justify-content: space-between;
+		align-items: center;
+		flex: 1;
+	}
+	
+	.div_li_violet_top1_1 {
+		margin-left: .62rem;
+	}
+	
+	.div_li_violet_top1_3 {
+		margin-right: .62rem;
+	}
+	
+	.div_li_violet_top2 {
+		margin-top: .12rem;
+		background-color: #FFFFFF;
+		display: flex;
+		flex-direction: column;
+		justify-content: space-between;
+	}
+	
+	.div_li_violet_top2 div {
+		height: .54rem;
+		width: 100%;
+	}
+	
+	.div_li_violet_top2_1 div span {
+		color: #4A4A4A;
+		font-size: .16rem;
+	}
+	
+	.div_li_violet_top2_1 div img{
+		width: .2rem;
+		height: .2rem;
+	}
+	
+	.div_li_violet_top2_1 div {
+		margin: .12rem;
+	}
+	
+	.div_li_violet_top2_2 div span {
+		color: #4A4A4A;
+		font-size: .14rem;
+	}
+	
+	.div_li_violet_top2_2 {
+		display: flex;
+	}
+	
+	.div_li_violet_top2_2 div {
+		flex: 1;
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		align-items: center;
+	}
+	
+	.option_ul {
+		display: flex;
+		flex-direction: column;
+		justify-content: space-between;
+		align-items: center;
+		width: 100%;
+	}
+	
+	.option_li {
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		width: 100%;
+		height: .46rem;
+		background-color: #FFFFFF;
+	}
+	
+	.option_li img {
+		width: .2rem;
+		height: .2rem;
+		margin-right: .2rem;
+	}
+	
+	.option_li div {
+		display: flex;
+		align-items: center;
+		margin-left: .2rem;
+	}
+	
+	.option_li div span {
+		margin-left: .1rem;
+		color: #4A4A4A;
+		font-size: .15rem;
+	}
+</style>
